@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75ff15d1-114a-4129-8f9e-357fe31ac29d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/funcionalidades/RandomWordsList.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/procedure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/procedure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,16 +29,27 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hTI6gN6sV4BVFlREG5UvYwj9jQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
@@ -79,27 +95,30 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="188" key="#Project_Structure" timestamp="1600029779866">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
     <state x="2472" y="188" key="#Project_Structure/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1600029779866" />
-    <state width="929" height="278" key="GridCell.Tab.0.bottom" timestamp="1600032614671">
+    <state width="929" height="278" key="GridCell.Tab.0.bottom" timestamp="1600036560475">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state width="929" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1600032614671" />
-    <state width="929" height="278" key="GridCell.Tab.0.center" timestamp="1600032614671">
+    <state width="929" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1600036560475" />
+    <state width="929" height="278" key="GridCell.Tab.0.center" timestamp="1600036560474">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state width="929" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1600032614671" />
-    <state width="929" height="278" key="GridCell.Tab.0.left" timestamp="1600032614670">
+    <state width="929" height="278" key="GridCell.Tab.0.center/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1600036560474" />
+    <state width="929" height="278" key="GridCell.Tab.0.left" timestamp="1600036560474">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state width="929" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1600032614670" />
-    <state width="929" height="278" key="GridCell.Tab.0.right" timestamp="1600032614671">
+    <state width="929" height="278" key="GridCell.Tab.0.left/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1600036560474" />
+    <state width="929" height="278" key="GridCell.Tab.0.right" timestamp="1600036560474">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
-    <state width="929" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1600032614671" />
+    <state width="929" height="278" key="GridCell.Tab.0.right/0.0.1920.1040/1920.10.1920.1040@1920.10.1920.1040" timestamp="1600036560474" />
     <state x="2012" y="102" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600028702621">
       <screen x="1920" y="10" width="1920" height="1040" />
     </state>
